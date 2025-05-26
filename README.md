@@ -28,5 +28,5 @@ LLM-Arena/
 
 ## 🛣 Roadmap
 
-_(coming soon)_
+1. Create test set group given this paper : https://arxiv.org/html/2412.01020v1
 
