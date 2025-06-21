@@ -1,12 +1,19 @@
 # LLM-Arena
 
-**_The open benchmarking arena for local LLMs._**
+**_The open benchmarking and tuning enabler frameworks for local LLMs._**
 
 ---
 
 ## 🎯 Purpose
 
-LLM-Arena provides a lightweight and reproducible framework to **benchmark, compare, and analyze local large language models**. Whether you're evaluating Mistral, LLaMA, TinyLLaMA, or Phi, this repo gives you a head-to-head testing ground for instruction-following, summarization, chat, and more — all on your machine.
+With the explosion of open source Large Lanugate Models (LLMs) (1.7M+ models on hugging face) , having the ability and the knowledge to : 
+1. Select the best base model for your application that suits your budget
+
+2. Tune the model to customize it for your business needs
+
+3. Evaluate the tuned model
+
+Is a superpower. This repo aims to enable individuals and SMEs to bridge this GAP by a series of Jupyter Notebooks and code snipptes. 
 
 ---
 
@@ -14,12 +21,8 @@ LLM-Arena provides a lightweight and reproducible framework to **benchmark, comp
 
 ```
 LLM-Arena/
-├── models/           # Loaders and wrappers for various local LLMs
-├── prompts/          # Prompt templates for evaluation tasks
-├── evaluate.py       # Main script to run evaluations across models
-├── metrics.py        # Utility functions for computing metrics (BLEU, ROUGE, etc.)
-├── results/          # Store results in JSON/CSV for reproducibility
-├── demo.ipynb        # Interactive notebook for exploring outputs
+├── tuning/           # Scripts and Notebooks to tune diffrent models on different datasets
+├── evaluation/       # Script and Notebooks to evaluate different local LLMs
 ├── README.md         # Project overview and getting started
 └── requirements.txt  # Required Python packages
 ```
