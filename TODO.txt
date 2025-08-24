@@ -1,9 +1,10 @@
 TODO
 -----
-* install vllm
-* experiment inference with two models
-* install lm harness
-* start evaluation
+*** Transformers (Foundation) ***
+
+*** Local Language Models ***
+
+***
 
 ===============================================================================================================
 Done
