@@ -1,0 +1,100 @@
+/home/mbaddar/Documents/mbaddar/betaflow/llm_hub/.venv/bin/python /home/mbaddar/Documents/mbaddar/betaflow/llm_hub/microblogs/nsp/nsp.py
+[nltk_data] Downloading package punkt_tab to
+[nltk_data]     /home/mbaddar/nltk_data...
+[nltk_data]   Package punkt_tab is already up-to-date!
+2025-10-03 16:55:29.907 | INFO     | __main__:build_nsp_dataset:52 - Building NSP dataset with 672 sentences
+Building Positive Samples for NSP dataset: 100%|██████████| 671/671 [00:00<00:00, 566615.26it/s]
+Building Negative Samples for NSP dataset: 100%|██████████| 671/671 [00:00<00:00, 82453.29it/s]
+Map:   0%|          | 0/1073 [00:00<?, ? examples/s]Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Map:  93%|█████████▎| 1000/1073 [00:01<00:00, 608.59 examples/s]Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Map: 100%|██████████| 1073/1073 [00:01<00:00, 603.88 examples/s]
+Map:   0%|          | 0/269 [00:00<?, ? examples/s]Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Map: 100%|██████████| 269/269 [00:00<00:00, 605.59 examples/s]
+  2%|▏         | 10/405 [00:05<03:24,  1.93it/s]{'loss': 2.1362, 'grad_norm': 75.22811126708984, 'learning_rate': 1.9555555555555557e-05, 'epoch': 0.07}
+  5%|▍         | 20/405 [00:10<03:21,  1.91it/s]{'loss': 1.7093, 'grad_norm': 16.297393798828125, 'learning_rate': 1.906172839506173e-05, 'epoch': 0.15}
+  7%|▋         | 30/405 [00:15<03:17,  1.90it/s]{'loss': 1.0455, 'grad_norm': 16.688356399536133, 'learning_rate': 1.85679012345679e-05, 'epoch': 0.22}
+ 10%|▉         | 40/405 [00:21<03:12,  1.89it/s]{'loss': 0.8657, 'grad_norm': 6.995790958404541, 'learning_rate': 1.8074074074074074e-05, 'epoch': 0.3}
+ 12%|█▏        | 50/405 [00:26<03:04,  1.92it/s]{'loss': 0.7184, 'grad_norm': 12.13127326965332, 'learning_rate': 1.7580246913580247e-05, 'epoch': 0.37}
+ 15%|█▍        | 60/405 [00:31<03:03,  1.88it/s]{'loss': 0.7445, 'grad_norm': 14.861368179321289, 'learning_rate': 1.708641975308642e-05, 'epoch': 0.44}
+ 17%|█▋        | 70/405 [00:36<02:58,  1.88it/s]{'loss': 0.7447, 'grad_norm': 9.761933326721191, 'learning_rate': 1.6592592592592594e-05, 'epoch': 0.52}
+ 20%|█▉        | 80/405 [00:42<02:53,  1.87it/s]{'loss': 0.7204, 'grad_norm': 5.432840347290039, 'learning_rate': 1.6098765432098767e-05, 'epoch': 0.59}
+ 22%|██▏       | 90/405 [00:47<02:49,  1.86it/s]{'loss': 0.6926, 'grad_norm': 16.50516128540039, 'learning_rate': 1.560493827160494e-05, 'epoch': 0.67}
+ 25%|██▍       | 100/405 [00:53<02:45,  1.85it/s]{'loss': 0.7052, 'grad_norm': 11.853458404541016, 'learning_rate': 1.5111111111111112e-05, 'epoch': 0.74}
+ 27%|██▋       | 110/405 [00:58<02:40,  1.84it/s]{'loss': 0.6648, 'grad_norm': 13.022380828857422, 'learning_rate': 1.4617283950617284e-05, 'epoch': 0.81}
+ 30%|██▉       | 120/405 [01:04<02:43,  1.74it/s]{'loss': 0.6632, 'grad_norm': 4.109532833099365, 'learning_rate': 1.4123456790123457e-05, 'epoch': 0.89}
+ 32%|███▏      | 130/405 [01:10<02:43,  1.69it/s]{'loss': 0.7073, 'grad_norm': 11.45051383972168, 'learning_rate': 1.362962962962963e-05, 'epoch': 0.96}
+ 35%|███▍      | 140/405 [01:23<04:59,  1.13s/it]{'loss': 0.595, 'grad_norm': 4.199802398681641, 'learning_rate': 1.3135802469135804e-05, 'epoch': 1.04}
+ 37%|███▋      | 150/405 [01:29<02:30,  1.70it/s]{'loss': 0.5101, 'grad_norm': 4.758617877960205, 'learning_rate': 1.2641975308641976e-05, 'epoch': 1.11}
+ 40%|███▉      | 160/405 [01:35<02:33,  1.59it/s]{'loss': 0.5982, 'grad_norm': 9.399380683898926, 'learning_rate': 1.2148148148148149e-05, 'epoch': 1.19}
+ 42%|████▏     | 170/405 [01:43<03:11,  1.23it/s]{'loss': 0.5251, 'grad_norm': 12.052038192749023, 'learning_rate': 1.1654320987654322e-05, 'epoch': 1.26}
+ 44%|████▍     | 180/405 [01:51<03:02,  1.23it/s]{'loss': 0.5428, 'grad_norm': 27.13824462890625, 'learning_rate': 1.1160493827160494e-05, 'epoch': 1.33}
+ 47%|████▋     | 190/405 [02:00<03:00,  1.19it/s]{'loss': 0.5934, 'grad_norm': 19.588287353515625, 'learning_rate': 1.0666666666666667e-05, 'epoch': 1.41}
+ 49%|████▉     | 200/405 [02:09<02:45,  1.24it/s]{'loss': 0.5754, 'grad_norm': 17.625972747802734, 'learning_rate': 1.017283950617284e-05, 'epoch': 1.48}
+ 52%|█████▏    | 210/405 [02:19<03:13,  1.01it/s]{'loss': 0.4849, 'grad_norm': 11.510409355163574, 'learning_rate': 9.679012345679012e-06, 'epoch': 1.56}
+ 54%|█████▍    | 220/405 [02:29<03:13,  1.04s/it]{'loss': 0.5369, 'grad_norm': 15.8316650390625, 'learning_rate': 9.185185185185186e-06, 'epoch': 1.63}
+ 57%|█████▋    | 230/405 [02:39<03:10,  1.09s/it]{'loss': 0.5051, 'grad_norm': 13.157523155212402, 'learning_rate': 8.691358024691359e-06, 'epoch': 1.7}
+ 59%|█████▉    | 240/405 [02:50<03:01,  1.10s/it]{'loss': 0.5199, 'grad_norm': 7.138377666473389, 'learning_rate': 8.197530864197532e-06, 'epoch': 1.78}
+ 62%|██████▏   | 250/405 [03:00<02:27,  1.05it/s]{'loss': 0.5975, 'grad_norm': 8.804937362670898, 'learning_rate': 7.703703703703704e-06, 'epoch': 1.85}
+ 64%|██████▍   | 260/405 [03:13<02:57,  1.22s/it]{'loss': 0.4985, 'grad_norm': 11.044472694396973, 'learning_rate': 7.209876543209877e-06, 'epoch': 1.93}
+ 67%|██████▋   | 270/405 [03:24<02:11,  1.02it/s]{'loss': 0.6012, 'grad_norm': 2.521190643310547, 'learning_rate': 6.71604938271605e-06, 'epoch': 2.0}
+ 69%|██████▉   | 280/405 [03:41<01:49,  1.14it/s]{'loss': 0.3974, 'grad_norm': 11.011826515197754, 'learning_rate': 6.222222222222223e-06, 'epoch': 2.07}
+ 72%|███████▏  | 290/405 [03:51<01:52,  1.02it/s]{'loss': 0.4341, 'grad_norm': 18.2285099029541, 'learning_rate': 5.728395061728396e-06, 'epoch': 2.15}
+ 74%|███████▍  | 300/405 [04:04<02:29,  1.43s/it]{'loss': 0.3725, 'grad_norm': 13.76655101776123, 'learning_rate': 5.234567901234568e-06, 'epoch': 2.22}
+ 77%|███████▋  | 310/405 [04:18<02:19,  1.47s/it]{'loss': 0.4204, 'grad_norm': 7.390316486358643, 'learning_rate': 4.7407407407407415e-06, 'epoch': 2.3}
+ 79%|███████▉  | 320/405 [04:31<02:05,  1.48s/it]{'loss': 0.5413, 'grad_norm': 14.024940490722656, 'learning_rate': 4.246913580246914e-06, 'epoch': 2.37}
+ 81%|████████▏ | 330/405 [04:45<01:31,  1.21s/it]{'loss': 0.4841, 'grad_norm': 42.074127197265625, 'learning_rate': 3.753086419753087e-06, 'epoch': 2.44}
+ 84%|████████▍ | 340/405 [04:57<01:22,  1.27s/it]{'loss': 0.3875, 'grad_norm': 6.626760959625244, 'learning_rate': 3.25925925925926e-06, 'epoch': 2.52}
+ 86%|████████▋ | 350/405 [05:10<01:11,  1.31s/it]{'loss': 0.3095, 'grad_norm': 10.653186798095703, 'learning_rate': 2.765432098765432e-06, 'epoch': 2.59}
+ 89%|████████▉ | 360/405 [05:22<00:48,  1.07s/it]{'loss': 0.4412, 'grad_norm': 18.128110885620117, 'learning_rate': 2.2716049382716052e-06, 'epoch': 2.67}
+ 91%|█████████▏| 370/405 [05:37<00:44,  1.26s/it]{'loss': 0.2913, 'grad_norm': 11.382991790771484, 'learning_rate': 1.777777777777778e-06, 'epoch': 2.74}
+ 94%|█████████▍| 380/405 [05:50<00:35,  1.40s/it]{'loss': 0.3943, 'grad_norm': 18.270797729492188, 'learning_rate': 1.2839506172839509e-06, 'epoch': 2.81}
+ 96%|█████████▋| 390/405 [06:05<00:21,  1.43s/it]{'loss': 0.3742, 'grad_norm': 24.51409912109375, 'learning_rate': 7.901234567901235e-07, 'epoch': 2.89}
+ 99%|█████████▉| 400/405 [06:19<00:06,  1.36s/it]{'loss': 0.395, 'grad_norm': 17.602947235107422, 'learning_rate': 2.9629629629629634e-07, 'epoch': 2.96}
+100%|██████████| 405/405 [06:35<00:00,  1.02it/s]
+{'train_runtime': 395.5415, 'train_samples_per_second': 8.138, 'train_steps_per_second': 1.024, 'train_loss': 0.6236458619435629, 'epoch': 3.0}
+100%|██████████| 34/34 [00:10<00:00,  3.34it/s]
+
+Evaluation Results: {'eval_loss': 0.6528348922729492, 'eval_accuracy': 0.6779468732706143, 'eval_runtime': 10.3535, 'eval_samples_per_second': 25.982, 'eval_steps_per_second': 3.284, 'epoch': 3.0}
+
+Process finished with exit code 0
