@@ -113,7 +113,7 @@ if __name__ == "__main__":
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
         num_train_epochs=3,
-        weight_decay=0.01,
+        weight_decay=0.01, # The hyperparameter of interest
         logging_dir="./logs",
         logging_steps=10,
         save_strategy="epoch",
@@ -130,3 +130,14 @@ if __name__ == "__main__":
 
     eval_results = trainer.evaluate()
     print(f"\nEvaluation Results: {eval_results}")
+
+"""
+Weight_Decay    Evaluation Results
+0.01            Evaluation Results: {'eval_loss': 0.6277399659156799, 'eval_accuracy': 0.6964146964146964, 'eval_runtime': 8.177, 'eval_samples_per_second': 32.897, 'eval_steps_per_second': 4.158, 'epoch': 3.0}
+0.01            Evaluation Results: {'eval_loss': 0.8204690217971802, 'eval_accuracy': 0.6584024322830293, 'eval_runtime': 14.3289, 'eval_samples_per_second': 18.773, 'eval_steps_per_second': 2.373, 'epoch': 3.0}
+0.01            Evaluation Results: {'eval_loss': 0.7201015949249268, 'eval_accuracy': 0.6771144278606965, 'eval_runtime': 8.4975, 'eval_samples_per_second': 31.656, 'eval_steps_per_second': 4.001, 'epoch': 3.0}
+----
+0.1             Evaluation Results: {'eval_loss': 0.8691158890724182, 'eval_accuracy': 0.6620726138768237, 'eval_runtime': 14.1351, 'eval_samples_per_second': 19.031, 'eval_steps_per_second': 2.405, 'epoch': 3.0}
+0.1             Evaluation Results: {'eval_loss': 0.6863654255867004, 'eval_accuracy': 0.653984903984904, 'eval_runtime': 8.3207, 'eval_samples_per_second': 32.329, 'eval_steps_per_second': 4.086, 'epoch': 3.0}
+0.1             Evaluation Results: {'eval_loss': 0.6713030934333801, 'eval_accuracy': 0.693679495686795, 'eval_runtime': 13.0567, 'eval_samples_per_second': 20.602, 'eval_steps_per_second': 2.604, 'epoch': 3.0}
+"""
